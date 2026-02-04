@@ -3,8 +3,6 @@
 ## Overview
 This project focuses on predicting car prices based on multiple features such as brand, year of manufacture, fuel type, transmission, mileage, engine capacity, and ownership details. The notebook implements **exploratory data analysis (EDA)** to understand key price drivers and applies **machine learning regression models** to build a price prediction system.
 
-The project is designed to demonstrate **both data science and machine learning competencies**, suitable for Data Science internships and ML-focused roles.
-
 ---
 
 ## Objective
