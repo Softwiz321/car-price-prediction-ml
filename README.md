@@ -1,4 +1,5 @@
 # Car Price Prediction using Machine Learning and EDA
+End-to-end data science project for predicting used car prices using exploratory data analysis and machine learning regression models.
 
 ## Overview
 This project focuses on predicting car prices based on multiple features such as brand, year of manufacture, fuel type, transmission, mileage, engine capacity, and ownership details. The notebook implements **exploratory data analysis (EDA)** to understand key price drivers and applies **machine learning regression models** to build a price prediction system.
