@@ -100,5 +100,5 @@ Trained multiple regression models:
 - Non-linear relationships exist between car features and price
 - Brand, year, mileage, and engine power strongly influence price
 - Ensemble models capture complex patterns better than linear models
-pip install -r requirements.txt
-jupyter notebook Car_Price_Prediction.ipynb
+
+https://github.com/user-attachments/assets/c682961e-9b3b-4b87-9bb5-493bf1cb02fe
